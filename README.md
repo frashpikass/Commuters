@@ -1,7 +1,8 @@
-#Commuters Simulation
+# Commuters Simulation
+
 _by Francesco Piazza (77205)_
 
-##Instructions:
+## Instructions:
 1. Install Python package [PrettyTable](https://pypi.python.org/pypi/PrettyTable)
 ```
 pip install PrettyTable
